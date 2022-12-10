@@ -21,7 +21,7 @@
 }
 .home__name--last {
   color: #370617;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-weight: 400;
+  font-weight: 700;
 }
 
 a {

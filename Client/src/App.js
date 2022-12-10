@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          THE 1 Firestarter
         </a>
       </header>
     </div>

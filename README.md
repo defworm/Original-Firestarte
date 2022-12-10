@@ -25,6 +25,7 @@ The node modules and package-lock.json files are created and stored locally when
         DB_USERNAME='enter your username here, typically it is postgres'
         DB_PASSWORD='enter your password here'
         DB_DATABASE=firestarter
+8. cd into Server and run nodemon
 
 
 

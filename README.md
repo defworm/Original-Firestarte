@@ -17,8 +17,8 @@ The node modules and package-lock.json files are created and stored locally when
 4. Open a second terminal. cd into Client and run npm i to install the package-lock.json and node_modules. Make sure you run this command in the Client and Server each time you pull new code in case there are new dependencies/node modules that need to be installed.
 5. Open your PGAdmin and create a new database named firestarter.
 6. Create a .env file in the Client folder. Add this information to your .env file:
-        PORT=5000
-        REACT_APP_SERVER_URL=http://localhost:5000/
+        PORT=3000
+        REACT_APP_SERVER_URL=http://localhost:3000/
 7.  Create a .env file in the Server folder. Add this information to your .env file:
         PORT=5000
         PG_URI= 'paste your link here'
